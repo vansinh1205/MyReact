@@ -2,6 +2,8 @@
 # Bài Thực Hành mon React
 [cau1](https://codepen.io/vansinh1205/pen/dyKqvZK)
 
+[cau2] ##
+
 [cau3,4](https://codepen.io/vansinh1205/details/ZERqrYe)
 
 [cau5](https://codepen.io/vansinh1205/pen/xxzaqpP)
@@ -32,7 +34,7 @@
 
 [cau18](https://codesandbox.io/s/bai18-ziq938)
 
-[cau19](https://codesandbox.io/s/cau19-5jkqnv?file=/src/components/MyApp.js)
+[cau19](https://codesandbox.io/s/cau19-vrjn3o)
 
 [cau20](https://codesandbox.io/s/bai20-8x60rd)
 
